@@ -14,8 +14,6 @@ What’s in this repo
 
 crack.py — the ZIP wordlist tester (the script you provided). DO NOT run this against third-party files.
 
-test-wordlist.txt — a tiny, safe, synthetic wordlist (one-line examples). Use this for demonstrations.
-
 EXAMPLES/ — (optional) small generated test zips you create for demos.
 
 README.md (this file)
