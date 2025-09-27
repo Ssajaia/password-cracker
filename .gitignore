@@ -1,0 +1,16 @@
+env/
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
+Thumbs.db
+
+rockyou.txt
+*.zip
+
+.vscode/
+.idea/
